@@ -1,0 +1,21 @@
+body{
+    background-color: blue;
+    color: darkgreen;
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    left: 45%;
+}
+.main {
+    background-color: aqua;
+}
+p {
+    padding: 40px;
+
+}
+button{
+    width: 60px;
+    padding-top: 10px;
+    
+}
